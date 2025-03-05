@@ -1,0 +1,1 @@
+This is a basic demo website for TCS, created while learning HTML and CSS. The project focuses on fundamental web development concepts, including structuring web pages with HTML and styling them with CSS. It is a static website with a simple layout, showcasing my early exploration of front-end development.
