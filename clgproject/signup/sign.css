@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    padding-top: 150px;
+  }
+  .login{
+   padding-left:  450px;
+  
+  }
+  form {
+    border: 3px solid rgb(201, 197, 197);
+    height: 400px;
+    width: 600px;
+    border-radius: 20px;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .cancelbtn {
+    width:auto;
+    background-color: #fb4aa0;
+  }
+  
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  .container {
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  span.pass {
+    float: right;
+    padding-top: 16px;
+  }
